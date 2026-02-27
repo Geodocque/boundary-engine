@@ -31,7 +31,7 @@ publishing workflows.
 ### 1️⃣ Clone the repository
 
 ``` bash
-git clone https://github.com/YOUR_USERNAME/boundary-engine.git
+git clone https://github.com/Geodocque/boundary-engine.git
 cd boundary-engine
 ```
 
