@@ -1,0 +1,14 @@
+name: boundary_engine
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - geopandas
+  - shapely
+  - pandas
+  - requests
+  - fiona
+  - pyproj
+  - rtree
